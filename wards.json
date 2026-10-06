@@ -1,0 +1,13 @@
+{
+  "county": "Kilifi",
+  "note": "Verify against the current IEBC gazette before launch.",
+  "constituencies": [
+    {"name": "Kilifi North", "wards": ["Tezo","Sokoni","Kibarani","Dabaso","Matsangoni","Watamu","Mnarani"]},
+    {"name": "Kilifi South", "wards": ["Junju","Mwarakaya","Shimo La Tewa","Chasimba","Mtepeni"]},
+    {"name": "Kaloleni", "wards": ["Mariakani","Kayafungo","Kaloleni","Mwanamwinga"]},
+    {"name": "Rabai", "wards": ["Mwawesa","Ruruma","Kambe/Ribe","Rabai/Kisurutini"]},
+    {"name": "Ganze", "wards": ["Ganze","Bamba","Jaribuni","Sokoke"]},
+    {"name": "Malindi", "wards": ["Jilore","Kakuyuni","Ganda","Malindi Town","Shella"]},
+    {"name": "Magarini", "wards": ["Marafa","Magarini","Gongoni","Adu","Garashi","Sabaki"]}
+  ]
+}
